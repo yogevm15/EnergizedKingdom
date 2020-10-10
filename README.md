@@ -1,2 +1,2 @@
 # Energized Kingdom
-A cool platformer game i made when i was 15.
+A cool platformer game I made when I was 15.
